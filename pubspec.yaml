@@ -1,7 +1,7 @@
 name: insta_personal_page_lego
 description: "insta style personal page by june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/insta_personal_page_lego
 
 version: 1.0.0
 
